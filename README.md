@@ -4,11 +4,11 @@
 
 In this repository, a video based action recognition model is implemented 
 
-## About the dataset 
+## Dataset 
 
 The dataset used is the **kinetics400** dataset which is a collection of action videos collected from Youtube. The dataset consists of trimmed clips and mainly focuses on single person action classifications.
 
-## About the model 
+## Model 
 
 The model used is the **inflated 3D inception** model which has been pre-trained on the kinetics400 dataset. This model is chosen because it is able to reuse the 2D CNN's model architecture for higher accuracy in classifications.
 
